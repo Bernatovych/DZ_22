@@ -1,4 +1,5 @@
-Run 
+Run
+
   alembic revision --autogenerate -m "Add table"
   
   alembic upgrade head
